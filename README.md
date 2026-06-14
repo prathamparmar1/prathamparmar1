@@ -1,29 +1,42 @@
-<h1 align="center">Hi 👋, I'm Pratham Parmar</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+# Hey, I'm Pratham Parmar 👋
 
-- 🔭 I’m currently working on [AI powered Career Mentor Platform](https://github.com/prathamparmar1/UpScaleU-Backend)
+I build **backend systems and AI-powered applications** — from RAG-based solutions and machine learning models to production-ready web applications.
 
-- 🌱 I’m currently Practicing **Django, Data Science, & Data Structures**
+Currently seeking opportunities in **Backend Development** and **AI/ML Engineering**.
 
-- 👯 I’m looking for a Team to work on **My New Idea**
+---
 
-- 🤝 I’m looking for [Job Opportunities in](Backend Development, Data Science, and more)
+## 🚀 What I've Built
 
-- 👨‍💻 All of my projects are available at [https://github.com/prathamparmar1/](https://github.com/prathamparmar1/)
+| Project | What it does | Stack |
+|---|---|---|
+| [UpScaleU](https://github.com/prathamparmar1/UpScaleU-Backend) | AI-powered career mentor platform providing personalized career guidance, skill-gap analysis, and learning roadmaps | Python, Django REST Framework, PostgreSQL, LLM Integration |
+| [RAG Based AI Assistant](https://github.com/prathamparmar1/RAG-Based-AI-Teaching-Assistant) | Retrieval-Augmented Generation (RAG) application that enables users to query documents using natural language, combining semantic search and LLM-powered responses for accurate, context-aware answers | Python, Vector Search, LLM, Embeddings, Gemini, RAG |
+| [Celebrity Face Matcher](https://github.com/prathamparmar1/Celebrity-Face-Matcher) | Matches user-uploaded faces against a celebrity dataset using computer vision | Python, OpenCV, Flask |
+| [Medicine Classification](https://github.com/prathamparmar1/Medicine-Classification-Using-ML) | Identifies medicines from images and returns dosage, uses & side effects | Python, Flask, OpenCV |
 
-- 💬 Ask me about **Python, RESTful APIs, Backend**
+---
 
-- 📫 How to reach me **prathamparmar203@gmail.com**
+## 🛠️ Tech Stack
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16vzz41GLxdM0ena4cENUgH4mIV3_TC65/view?usp=sharing](https://drive.google.com/file/d/16vzz41GLxdM0ena4cENUgH4mIV3_TC65/view?usp=sharing)
+**Backend** — Python · Django · Flask · Node.js · Express · REST APIs  
+**AI / ML** — LLM · RAG · Prompt Engineering · NLP · TensorFlow · NumPy · Pandas  
+**Databases** — PostgreSQL · MongoDB · MySQL · SQLite  
+**Tools** — Git · Postman · Firebase · GCP · React
 
-- ⚡ Strength **I can adapt new technologies fast and am eager to learn**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prathamparmar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamparmar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratham__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham__" height="30" width="40" /></a>
-</p>
+## 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **Backend Developer Intern** @ Cohezo Health *(Jun 2025 – Feb 2026)*
+- **Python Developer Intern** @ InnoByte Services *(2025)*
+- **Software Developer Intern** @ Ypsilon IT Solutions *(2024)*
+
+---
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamparmar-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamparmar1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/pratham__)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamparmar203@gmail.com)
